@@ -11,7 +11,7 @@
 # 1. Planificación
 
 ### Temática elegida
-(Explicar brevemente la idea del proyecto)
+Hemos melegido una página web para ver resúmenes de partidos de la NBA
 
 ### Usuarios definidos
 - Joan Soberats Tejero (Lo hace todo)
