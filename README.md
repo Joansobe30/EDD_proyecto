@@ -4,7 +4,7 @@
 - Joan Soberats
 
 ## Enlace al proyecto desplegado
-[https://tu-usuario.github.io/mi-aplicacion-pages/](https://joansobe30.github.io/EDD_proyecto/)
+https://joansobe30.github.io/EDD_proyecto/
 
 ---
 
